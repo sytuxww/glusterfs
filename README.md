@@ -1,2 +1,3 @@
 glusterfs
 =========
+For more info, please visit http://www.gluster.org/.
